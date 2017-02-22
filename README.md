@@ -2,4 +2,4 @@
 Github badges
 
 ## HipChat
-[![HipChat](http://svgshare.com/i/kj.svg)](https://www.hipchat.com/)
+[![HipChat](http://svgshare.com/i/ob.svg)](https://www.hipchat.com/)
